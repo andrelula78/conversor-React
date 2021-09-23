@@ -1,0 +1,27 @@
+.conversor {
+    margin: 10px;
+    background-color: rgba(85, 5, 74, 0.746);
+    padding: 20px;
+    max-width: 300px;
+    box-shadow: 4px 4px 8px 0px rgba(0, 0, 0, 0.8);
+    border-radius: 10px;
+}
+
+button {
+    padding: 5px;
+    margin-left: 5px;
+  
+}
+
+h2 {
+    background-color: rgb(48, 36, 59);
+    padding: 10px;
+    border-radius: 20px;
+    margin-left: 5px;
+    margin-right: 15px;
+    color: white;
+}
+
+input {
+    padding: 10px;
+}
